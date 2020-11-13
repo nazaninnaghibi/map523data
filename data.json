@@ -2,14 +2,20 @@
     "version": "2",
     "timestamp":"2020-22-20T18:25:43+0000",
     "count":4,
-    "data":[{
+    "data":
+ [{
     "id":524,
     "courseCode":"MAP",
     "courseName":"Android"
    },
    {
-    "id":525,
-    "courseCode":"ABC",
-    "courseName":"ios"
+    "id":320,
+    "courseCode":"ITS",
+    "courseName":"IOS"
+   },
+   {
+    "id":114,
+    "courseCode":"ITE",
+    "courseName":"Project managment"
    }
    ]}
