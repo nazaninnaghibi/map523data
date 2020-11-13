@@ -1,0 +1,15 @@
+{"student": "Nazanin Naghibi",
+    "version": "2",
+    "timestamp":"2020-22-20T18:25:43+0000",
+    "count":4,
+    "data":[{
+    "id":524,
+    "courseCode":"MAP",
+    "courseName":"Android"
+   },
+   {
+    "id":525,
+    "courseCode":"ABC",
+    "courseName":"ios"
+   }
+   ]}
