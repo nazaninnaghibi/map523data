@@ -1,21 +1,19 @@
-{
+{"timestamp":"2020-11-10T18:29:43+0000",
+ 
   "ticket":[{
   "type":"Balcony",
   "price":1.170,
-  "quantity":12,
-  "timestamp":"2020-11-10T18:29:43+0000"
+  "quantity":12  
    },
    {
     "type":"Lower level",
     "price":10.434,
-    "quantity":20,
-    "timestamp":"2020-11-10T18:29:43+0000"
+    "quantity":20   
    },
    {
     "type":"CourtSide",
     "price":27.777,
-    "quantity":15,
-    "timestamp":"2020-11-10T18:29:43+0000"
+    "quantity":15
    }]
    
 }
